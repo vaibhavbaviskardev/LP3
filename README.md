@@ -141,3 +141,4 @@ the default Kaggle file name shown above is used.
 - A4: same input → 220 (items 2, 3)
 - A5: `5 2` → 10
 - A6: `1 1` (row col of first queen)
+- https://github.com/Anuj-Gholve/LP3
